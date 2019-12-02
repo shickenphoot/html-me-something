@@ -1,0 +1,38 @@
+body {
+ 
+  margin: 0px;
+  background-image: url("background.jpg");
+  background-repeat: fixed;
+  background-size:  cover;
+}
+
+h1 {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+  color: black;
+}
+section{
+  background-color: hsla(120, 96%, 22%, 0.219);
+  text-align: center;
+  margin: 0px;
+  display: inline-block;
+}
+article{
+  align-content: center;
+}
+img{
+  width: 500px;
+  
+}
+main{
+  padding: 0px;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#monopoly{
+  font-size: 9px;
+}
